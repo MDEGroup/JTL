@@ -1,2 +1,4 @@
 # JTL
-JTL (Janus Transformation Language) - Constraint-based engine for bidirectional model transformation and traceability
+JTL Project Site 
+
+EMF-based tool for bidirectional model transformation and traceability
