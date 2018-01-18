@@ -430,6 +430,32 @@
 					background-color: #1f232b;
 				}
 
+			input[type="button"].style4,
+			input[type="submit"].style4,
+			input[type="reset"].style4,
+			.button.style4
+			{
+				background: #fff url('images/overlay.png');
+				color: #606167;
+				box-shadow: inset 0px 0px 2px 0px #a0a1a7;
+			}
+
+				input[type="button"].style4:hover,
+				input[type="submit"].style4:hover,
+				input[type="reset"].style4:hover,
+				.button.style4:hover
+				{
+					background-color: #f98780;
+				}
+				
+				input[type="button"].style4:active,
+				input[type="submit"].style4:active,
+				input[type="reset"].style4:active,
+				.button.style4:active
+				{
+					background-color: #1f232b;
+				}
+
 	/* List */
 
 		ul.default
