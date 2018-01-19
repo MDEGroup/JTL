@@ -436,7 +436,7 @@
 			.button.style4
 			{
 				background: #fff url('images/overlay.png');
-				color: #606167;
+				color: #000000;
 				box-shadow: inset 0px 0px 2px 0px #a0a1a7;
 			}
 
@@ -665,7 +665,10 @@
 			{
 				border: solid 10px #fff;
 			}
-
+		.wrapper.style4 
+		{
+			color:#000000;
+		}
 	#header-wrapper
 	{
 		background: url('../images/banner.jpg') center center;
